@@ -1,12 +1,11 @@
 # Site settings
-title: Yihui He blog
-email: yihuihe@foxmail.com
-description: "Musings of a Computer Scientist."
+title: Jo Youngheun 
+email: joy.neuro@gmail.com
+description: "welcome to my gitfolio!"
 baseurl: ""
-url: "http://yihui-he.github.io"
-blogurl: "http://yihui-he.github.io/blog"
-#twitter_username: karpathy
-github_username:  yihui-he
+url: "http://joy-neuro.github.io"
+twitter_username: Jo_Youngheun
+github_username:  joy-neuro
 
 # Build settings
 markdown: kramdown
